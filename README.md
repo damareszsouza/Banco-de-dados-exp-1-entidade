@@ -39,3 +39,11 @@ public	void	setEmail(String	novo) {
 						this.dataNascimento	=	dataNascimento;
 				}
 		}
+	
+	
+	
+	
+	
+		
+		
+											+	
